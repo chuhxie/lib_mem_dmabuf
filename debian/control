@@ -1,0 +1,12 @@
+Source: ros-jazzy-lib-mem-dmabuf
+Section: misc
+Priority: optional
+Maintainer: Peng Wang <quic_penwang@quicinc.com>
+Build-Depends: debhelper (>= 9.0.0)
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-lib-mem-dmabuf
+Architecture: any
+Depends:  
+Description: Library for interact with Linux DMA buffer
