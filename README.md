@@ -6,12 +6,10 @@
 
 **Feature Highlights**
 
-* Underlying file descriptor (fd) import and access.
 * Flexible buffer management with automatic or manual release.
 * Support for buffer release callback registration.
 
 > [!NOTE]
-> Prerequisites: Linux kernel version 5.12 or later is required for kernel dma-buf support.
 
 ## Quickstart
 
